@@ -18,12 +18,6 @@
       "url": "${site2:servername}"
     },
     {
-      "title": "${site3:sitename}",
-      "type": "plone",
-      "port": "${site3:zope-port}",
-      "url": "${site3:servername}"
-    },
-    {
       "title": "${site4:sitename}",
       "type": "plone",
       "port": "${site4:zope-port}",
@@ -76,12 +70,6 @@
       "type": "plone",
       "port": "${site12:zope-port}",
       "url": "${site12:servername}"
-    },
-    {
-      "title": "${site13:sitename}",
-      "type": "plone",
-      "port": "${site13:zope-port}",
-      "url": "${site13:servername}"
     },
     {
       "title": "${site14:sitename}",
